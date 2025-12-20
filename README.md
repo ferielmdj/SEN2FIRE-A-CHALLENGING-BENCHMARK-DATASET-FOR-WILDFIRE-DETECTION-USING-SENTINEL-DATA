@@ -21,7 +21,7 @@ in our project theres 11 modes (check train.py inside the base_code):
 we'll just be using mode 3 and mode 1 , most accurate to our needs. ( we add aerosol cz it gives better results )
 
 
-#  Quantitative Results:
+# UNET Quantitative Results:
 
 ##   Mode 1 : All Bands + Aerosol (all_bands_aerosol including NIR)
 ### Training / Validation
